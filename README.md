@@ -1,0 +1,2 @@
+# AgularSPA
+Angular SPA skeleton
